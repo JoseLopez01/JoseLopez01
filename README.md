@@ -7,10 +7,7 @@ Web and mobile developer
 I'm a colombian web developer with two years of experience as a full stack developer with technologies as React, Angular, NestJs, MongoDB, Ionic and Capacitor.
 
 * 🌍  I'm based in Barranquilla - Colombia
-* 🖥️  See my portfolio at [lopez-ariza.com](http://lopez-ariza.com)
 * ✉️  You can contact me at [lopezarizajosealejandro@gmail.com](mailto:lopezarizajosealejandro@gmail.com)
-* 🚀  I'm currently working on [Tissini](http://tissini.com)
-* 🧠  I'm learning Flutter and State management libraries for React (Jotai, Redux toolkit, etc.)
 * 🤝  I'm open to collaborating on any project that could make me grow as a developer.
 
 <a href="https://www.twitter.com/im_el_joe" target="_blank" rel="noreferrer"><img
